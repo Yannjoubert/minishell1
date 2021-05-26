@@ -1,4 +1,4 @@
-# minishell1
+# Minishell1
 Epitech Tech 1 Project
 
 One of the biggest project in Epitech
